@@ -17,3 +17,5 @@ There may still be errors and bugs. The jitter penalty could be more sensitive. 
 
 The file with most of the edits is the red_gym.env. Using run_baseline_parallel.py and run_pretrained_interactive.py. This version only can go the the far side of Mt Moon, but that's such a major obstacle
   for game playing agents that it's enough. 
+
+Since GitHub won't let me upload a video or a .txt file???? Here is a link to the demo (quite rough) on Drive: https://drive.google.com/file/d/12bV_bzAoEmgJ_5cS5ICqPTPOxgqAqxsW/view?usp=drive_link
