@@ -19,4 +19,6 @@ There may still be errors and bugs. The jitter penalty has been adjusted. The co
 The file with most of the edits is the red_gym.env. Using run_baseline_parallel.py and run_pretrained_interactive.py. This version only can go the the far side of Mt Moon, but that's such a major obstacle
   for game playing agents that it's enough. The session data in run_pretrained_interactive.py must be updated to the coreect zip before running.
 
-Here is a link to the demo (quite rough) on Drive: https://drive.google.com/file/d/12bV_bzAoEmgJ_5cS5ICqPTPOxgqAqxsW/view?usp=drive_link. I smaller video of the current version has also been added. Note: it needs more training as of this writing.
+Here is a link to the demo (quite rough) on Drive: https://drive.google.com/file/d/12bV_bzAoEmgJ_5cS5ICqPTPOxgqAqxsW/view?usp=drive_link. I smaller video of the current version has also been added. Note: it is based on an earlier trainin run (5-7-26)
+
+As of 5-8-26, the AI agent can make it to Viridian City. It is still in training. It may be manipulating an item glitch in the menu, not confirmed.
